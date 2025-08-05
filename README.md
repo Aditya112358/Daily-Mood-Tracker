@@ -9,4 +9,4 @@ Trained a custom LSTM model that classifies a person's emotions based on the tex
 * mood_tracker.db: The table where entries are stored.
 * sentiment_code.ipynb: Contains all the preprocessing code. Contains the architecture of the LSTM model and the training of the model.
 * model_1.pth: This file contains the trained model. This was used in the streamlit app to access the functionality of the model.
-* main.py: This is the streamlit file, which can be run through the command `streamlit run main.py`. Contains the UI for the web app. Makes it easier for the user to enter the text, see the result, and store the entry in the modd_tracker.db .
+* main.py: This is the streamlit file, which can be run through the command `streamlit run main.py`. Contains the UI for the web app. Makes it easier for the user to enter the text, see the result, and store the entry in the mood_tracker.db.
